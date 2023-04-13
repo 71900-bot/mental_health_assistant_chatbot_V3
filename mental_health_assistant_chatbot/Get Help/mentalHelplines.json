@@ -1,0 +1,45 @@
+{
+  "helplines": [
+    {
+      "name": "Befrienders Kuala Lumpur",
+      "phone": "+603-7956 8145"
+    },
+    {
+      "name": "Lifeline Association of Malaysia",
+      "phone": "+603-4265 7995"
+    },
+    {
+      "name": "Malaysian Mental Health Association",
+      "phone": "+603-2780 6803"
+    },
+	{
+    "name": "Talian Kasih",
+    "phone": "15999"
+	},
+	{
+    "name": "National Population and Family Development Board (LPPKN)",
+    "phone": "+603-26988177"
+	},
+	    {
+      "name": "Sarawak General Hospital Psychiatry Department",
+      "phone": "+608 224 9413"
+    },
+    {
+      "name": "Borneo Counselling & Psychiatric Services",
+      "phone": "+6012 808 9390"
+    },
+    {
+      "name": "Sarawak Society for Parents of Special Needs Children",
+      "phone": "+608 222 7979"
+    },
+    {
+      "name": "Kuching Life Care Society",
+      "phone": "+608 224 4178"
+    },
+    {
+      "name": "Befrienders Kuching",
+      "phone": "+608 225 5788"
+    }
+	
+  ]
+}
